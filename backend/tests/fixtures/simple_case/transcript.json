@@ -1,0 +1,102 @@
+{
+  "session_id": "sess_2026_03_06_001",
+  "language": "no",
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "start_sec": 0.0,
+      "end_sec": 11.5,
+      "absolute_start": "2026-03-06T10:01:12",
+      "absolute_end": "2026-03-06T10:01:23.500000",
+      "text": "Starter gjennomgang av celleprøve A under mikroskop."
+    },
+    {
+      "segment_id": "seg_002",
+      "start_sec": 11.5,
+      "end_sec": 26.0,
+      "absolute_start": "2026-03-06T10:01:23.500000",
+      "absolute_end": "2026-03-06T10:01:38",
+      "text": "Cellene virker relativt jevnt fordelt i dette synsfeltet."
+    },
+    {
+      "segment_id": "seg_003",
+      "start_sec": 26.0,
+      "end_sec": 41.0,
+      "absolute_start": "2026-03-06T10:01:38",
+      "absolute_end": "2026-03-06T10:01:53",
+      "text": "Timestamp. Ser enkelte små ansamlinger mot øvre høyre del av preparatet."
+    },
+    {
+      "segment_id": "seg_004",
+      "start_sec": 41.0,
+      "end_sec": 58.0,
+      "absolute_start": "2026-03-06T10:01:53",
+      "absolute_end": "2026-03-06T10:02:10",
+      "text": "Disse ansamlingene er tydeligere ved høyere forstørrelse."
+    },
+    {
+      "segment_id": "seg_005",
+      "start_sec": 58.0,
+      "end_sec": 76.0,
+      "absolute_start": "2026-03-06T10:02:10",
+      "absolute_end": "2026-03-06T10:02:28",
+      "text": "Timestamp. Mulig begynnende aggregering i prøve A."
+    },
+    {
+      "segment_id": "seg_006",
+      "start_sec": 76.0,
+      "end_sec": 101.0,
+      "absolute_start": "2026-03-06T10:02:28",
+      "absolute_end": "2026-03-06T10:02:53",
+      "text": "Det sees ingen tydelige cellefragmenter i dette området."
+    },
+    {
+      "segment_id": "seg_007",
+      "start_sec": 101.0,
+      "end_sec": 129.0,
+      "absolute_start": "2026-03-06T10:02:53",
+      "absolute_end": "2026-03-06T10:03:21",
+      "text": "Timestamp. Bytter til et nytt synsfelt for sammenligning."
+    },
+    {
+      "segment_id": "seg_008",
+      "start_sec": 129.0,
+      "end_sec": 152.0,
+      "absolute_start": "2026-03-06T10:03:21",
+      "absolute_end": "2026-03-06T10:03:44",
+      "text": "Dette området har lavere celletetthet enn det forrige."
+    },
+    {
+      "segment_id": "seg_009",
+      "start_sec": 152.0,
+      "end_sec": 180.0,
+      "absolute_start": "2026-03-06T10:03:44",
+      "absolute_end": "2026-03-06T10:04:12",
+      "text": "Timestamp. Enkelte celler fremstår mer avrundede her."
+    },
+    {
+      "segment_id": "seg_010",
+      "start_sec": 180.0,
+      "end_sec": 215.0,
+      "absolute_start": "2026-03-06T10:04:12",
+      "absolute_end": "2026-03-06T10:04:47",
+      "text": "Det er fortsatt jevn bakgrunn uten tydelig debris."
+    },
+    {
+      "segment_id": "seg_011",
+      "start_sec": 215.0,
+      "end_sec": 247.0,
+      "absolute_start": "2026-03-06T10:04:47",
+      "absolute_end": "2026-03-06T10:05:19",
+      "text": "Timestamp. Ny observasjon av små ansamlinger, men mindre uttalt enn tidligere."
+    },
+    {
+      "segment_id": "seg_012",
+      "start_sec": 247.0,
+      "end_sec": 285.0,
+      "absolute_start": "2026-03-06T10:05:19",
+      "absolute_end": "2026-03-06T10:05:57",
+      "text": "Samlet sett varierer prøven mellom områder med jevn fordeling og områder med lett aggregering."
+    }
+  ]
+}

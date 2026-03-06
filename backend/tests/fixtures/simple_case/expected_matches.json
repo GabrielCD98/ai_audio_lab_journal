@@ -1,0 +1,25 @@
+{
+  "session_id": "sess_2026_03_06_001",
+  "matches": [
+    {
+      "image_id": "img_001",
+      "matched_segment_id": "seg_003"
+    },
+    {
+      "image_id": "img_002",
+      "matched_segment_id": "seg_005"
+    },
+    {
+      "image_id": "img_003",
+      "matched_segment_id": "seg_007"
+    },
+    {
+      "image_id": "img_004",
+      "matched_segment_id": "seg_009"
+    },
+    {
+      "image_id": "img_005",
+      "matched_segment_id": "seg_011"
+    }
+  ]
+}
