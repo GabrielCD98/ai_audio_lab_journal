@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+backend/storage/
+frontend-android/build/
+frontend-android/.gradle/
+.idea/
+.vscode/
